@@ -18,7 +18,7 @@
 
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
-  Hey there. I'm Anna. I'm currently a sophomore Software Engineer student at Curtin University. 
+  Hey there. I'm Anna. I'm currently Senior Software Engineer student at Curtin University. 
 </h1>
 
 <div align="center">
